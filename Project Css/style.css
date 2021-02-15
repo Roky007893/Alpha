@@ -1,0 +1,81 @@
+
+
+    h1 {
+        text-align: center;
+        background-color: #006bff5e;
+        border: 1px solid red;
+        padding: 25px;
+        margin-top: 10px;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 20px;
+       
+        
+    }
+    
+ul li {
+list-style-type: none;
+display: inline;
+padding: 10px;
+
+}
+
+ul li a{
+
+    text-decoration: none;
+    color: black;
+
+}
+
+ul li a:hover{
+
+   color: red;
+   transition: 0.2s ease-in-out;
+
+}
+.dates{
+
+    padding-left: 51px;
+    color: royalblue;
+}
+
+h2 {
+ padding-left: 51px;
+ color: blue; 
+ font-size: 25px;
+ font-family: 'Courier New', Courier, monospace;
+
+}
+
+button {
+    margin-top: 10px;
+    color: darkred;
+    margin-left: 52px;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+
+button:hover{
+    background-color: indigo;
+    color: white;
+    transition: 0.2 ease-in-out;
+}
+
+p{
+color: #000000d1;
+padding-left: 51px;
+}
+
+.copyright{
+margin-top: 10px;
+    background-color: crimson;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
+    
